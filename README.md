@@ -1,3 +1,11 @@
+# Superhero Movie Review Site
+
+- **Type of Review Site**: Superhero Movie Reviews  
+- **Choice of Headless CMS**: Strapi  
+- **Frontend Tool**: Vue.js, Bootstrap
+
+---
+
 # 🚀 Getting started with Strapi
 
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/dev-docs/cli) (CLI) which lets you scaffold and manage your project in seconds.
