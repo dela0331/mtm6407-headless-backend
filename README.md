@@ -4,6 +4,11 @@
 - **Choice of Headless CMS**: Strapi  
 - **Frontend Tool**: Vue.js, Bootstrap
 
+## Group Members  
+1. Yassin Abdullah (abdu0328) 
+2. Olivia Delafuente (dela0331)
+3. Sandeep Singh (sing2027) 
+
 ---
 
 # 🚀 Getting started with Strapi
